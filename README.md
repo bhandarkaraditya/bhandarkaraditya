@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhandarkaraditya
 - 👀 I’m interested in developing applications
-- 🌱 I’m currently an intern @Maersk
+- 🌱 I’m currently a Cloud Engineer @Maersk
 
 <!---
 bhandarkaraditya/bhandarkaraditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
